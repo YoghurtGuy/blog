@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yoghurtguy.github.io/blog</id>
+    <title>YoghurtGuy</title>
+    <updated>2022-12-10T07:38:06.602Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yoghurtguy.github.io/blog"/>
+    <link rel="self" href="https://yoghurtguy.github.io/blog/atom.xml"/>
+    <subtitle>人生若只如初见，何事秋风悲画扇</subtitle>
+    <logo>https://yoghurtguy.github.io/blog/images/avatar.png</logo>
+    <icon>https://yoghurtguy.github.io/blog/favicon.ico</icon>
+    <rights>All rights reserved 2022, YoghurtGuy</rights>
+    <entry>
+        <title type="html"><![CDATA[待填坑]]></title>
+        <id>https://yoghurtguy.github.io/blog/post/dai-tian-keng/</id>
+        <link href="https://yoghurtguy.github.io/blog/post/dai-tian-keng/">
+        </link>
+        <updated>2022-12-06T12:11:51.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>🚲</p>
+]]></content>
+    </entry>
+</feed>
